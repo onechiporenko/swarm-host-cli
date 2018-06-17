@@ -1,5 +1,7 @@
 # Swarm-Host-CLI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/435f484ed40c4e30a4615c0266bd407b)](https://app.codacy.com/app/cv_github/swarm-host-cli?utm_source=github.com&utm_medium=referral&utm_content=onechiporenko/swarm-host-cli&utm_campaign=badger)
+
 CLI for [Swarm-Host](https://github.com/onechiporenko/swarm)
 
 ## Install:
