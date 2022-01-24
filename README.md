@@ -4,6 +4,10 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/09abde586a6a4f24b859a5e4b3f57472)](https://www.codacy.com/app/cv_github/swarm-host-cli?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=onechiporenko/swarm-host-cli&amp;utm_campaign=Badge_Grade)
 [![npm version](https://badge.fury.io/js/swarm-host-cli.svg)](https://badge.fury.io/js/swarm-host-cli)
 
+# DEPRECATED
+
+Please, use `@swarm-host/cli` from `@swarm-host` [monorepo](https://github.com/onechiporenko/swarm-host-platform).
+
 CLI for [Swarm-Host](https://github.com/onechiporenko/swarm)
 
 ## Install:
